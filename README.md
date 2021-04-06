@@ -14,7 +14,7 @@ Build a simple slot machine with minimum 5 items per reel and 3 reels - user sho
 - Your pull request description should contain the following:
   - (1 to 5 no 3) I completed the challenge
   - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+  - Anything specific on which you want feedback! 
 
 Example:
 ```
